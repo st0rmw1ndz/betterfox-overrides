@@ -38,6 +38,3 @@ user_pref("media.eme.enabled", false);
 
 // PREF: hide the setting; this also disables the DRM prompt (optional)
 user_pref("browser.eme.ui.enabled", false);
-
-// PREF: disable telemetry of what default browser you use [WINDOWS]
-user_pref("default-browser-agent.enabled", false);
